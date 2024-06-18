@@ -21,7 +21,8 @@ function createImagesTag(src){
     log.setAtttibutes("src", src);
 }
 
-const img = new Image();
-img.src = "https://cdn2.thedogapi.com/images/B1d5me547_1280.jpg', width: 554, height: 546" //
-
-
+async function fetchImages() {
+    try {
+        const response = await fetch("https://cdn2.thedogapi.com/images/B1d5me547_1280.jpg")
+        const data = await response.json();
+    } catch(error){}}
