@@ -1,14 +1,23 @@
 body {
     background-color: rgb(2, 27, 49);
     color: yellow;
+    font-size: xx-large;
+    padding: 5%
+
+   
+;
     
     
 }
-header {
+head {
     color:rgb(2, 27, 49)
 }
 
 h1 {
     color: yellow;
     font-style: oblique;
+    border-radius: 5%;
+
+
+
 }
