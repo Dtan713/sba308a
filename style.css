@@ -3,18 +3,42 @@ body {
     color: yellow;
     font-size: xx-large;
     padding: 5%;
+    background-position-y: center;
+    
+    
+    
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    -ms-flex-align: calc();
+    flex-wrap: wrap;
+    border: 5px solid #555;
+   
+
 }
  
 head {
     color:rgb(2, 27, 49)
-    width: darksalmon;
+    
     }
 
 h1 { 
     color: yellow; ;
     border-radius: 5%;
     font-display: yellow;
+   
+}
 
+button {
+    font-size: xx-large;
+    color: black
+    font-style
+}
 
-
+title {
+    font-size: xx-large;
+    font-weight: 500;
+    
 }
