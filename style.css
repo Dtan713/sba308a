@@ -1,22 +1,19 @@
 body {
-    background-color: rgb(2, 27, 49);
+    background-color:navy;
     color: yellow;
     font-size: xx-large;
-    padding: 5%
-
-   
-;
-    
-    
+    padding: 5%;
 }
+ 
 head {
     color:rgb(2, 27, 49)
-}
+    width: darksalmon;
+    }
 
-h1 {
-    color: yellow;
-    font-style: oblique;
+h1 { 
+    color: yellow; ;
     border-radius: 5%;
+    font-display: yellow;
 
 
 
